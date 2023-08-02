@@ -1,0 +1,30 @@
+{
+  "url_json": "https://www.example.com/ads_configuration.json",
+  "mode_review": false,
+  "mode_waterfall": true,
+  "inters_delay_seconds": 5,
+
+  "admob_inters": "ca-app-pub-3940256099942544/1033173712",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "applovin_max_inters": "2838649e0b560a68",
+  "applovin_max_banner": "ae44996e2b723dcf",
+  "unity_game_id": "4114625",
+  "unity_mode_test": true,
+  "unity_inters_id": "inter",
+  "unity_banner_id": "banner",
+
+  "button_start": "START",
+  "button_share": "SHARE TO FRIEND",
+  "button_rating": "RATING",
+
+  "exit_popup_dialog": "Help give us a 5-star rating, so we keep the spirit of providing the latest updates",
+  "rate_button": "Rate Now",
+  "later_button": "Rate Later",
+  "enable_share_button": true,
+  "share_txt": "Super APPS Download Now",
+  "more_button": "Share This Apps",
+  "url_more_apps": "-",
+
+  "redirect_traffic" : false,
+  "link_redirect" :"https://play.google.com/store/apps/developer?id=SkyWave"
+}
